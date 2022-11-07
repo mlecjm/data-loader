@@ -8,7 +8,7 @@
 - Hyperledger Caliper
 - IBM Blockchain Console
 - [Install Git](https://git-scm.com/downloads)
-- [Install cURL] (https://curl.se/download.html)
+- [Install cURL](https://curl.se/download.html)
 - Install Docker and Docker Compose
    - Install docker-engine: [https://docs.docker.com/engine/install/](https://docs.docker.com/engine/install/)
    - Install docker-compose: [https://docs.docker.com/compose/install/](https://docs.docker.com/compose/install/)
