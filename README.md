@@ -24,7 +24,7 @@
 
 ### Hyperledger Fabric setup
 - FABRIC_RELEASE=2.3.0
-- CHANNEL_NAME=ethtxChannel
+- CHANNEL_NAME=myChannel
 - PEER_DATABASE_TYPE=golevel
 - CHAINCODE_LANGUAGE=go
 - CHAINCODE_NAME=ethtxcc
