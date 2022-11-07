@@ -2,10 +2,10 @@
 ![System_Model](https://github.com/mlecjm/data-loader/blob/main/resources/system_model.png)
 
 ### Prerequisites
-- Hyperledger Fabric 2.2.x
-- Certificate Authority (CA) 1.4.x
-- Hyperledger Explorer
-- Hyperledger Caliper
+- [Hyperledger Fabric 2.2.x](https://hyperledger-fabric.readthedocs.io/en/release-2.2/prereqs.html)
+- [Certificate Authority (CA) 1.4.x](https://hyperledger-fabric-ca.readthedocs.io/en/latest/)
+- [Hyperledger Explorer v1.1.7](https://github.com/hyperledger/blockchain-explorer)
+- [Hyperledger Caliper](https://hyperledger.github.io/caliper/)
 - IBM Blockchain Console
 - [Install Git](https://git-scm.com/downloads)
 - [Install cURL](https://curl.se/download.html)
